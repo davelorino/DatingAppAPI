@@ -1,0 +1,5 @@
+To generate a connection string for sqlite, a command line tool called dotnet-ef was installed (for 'Entity Framework')
+
+This had to be installed with the command 'dotnet tool install --global dotnet-ef --version 3.0.0'
+
+If you used any other version number the installer would just scream at you and say you asked for the wrong version.
